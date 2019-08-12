@@ -1,0 +1,10 @@
+/stanok_sergey_v2/Release
+/stanok_sergey_v2/__vm
+/stanok_sergey/Release
+/stanok_sergey/__vm
+/stanok_sergey/.vs
+/stanok_sergey_v2/.vs
+*.vcxproj
+*.filters
+*.user
+*.sln
